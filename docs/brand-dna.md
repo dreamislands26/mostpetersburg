@@ -3,7 +3,9 @@ Updated: 2026-11-10
 
 ## Identity
 **MOST Petersburg — An Independent Destination Experience & Travel Partner.**
-**Brand line:** Saint Petersburg. Beyond the Ordinary.
+**Original and enduring brand slogan:** You Are the MOST Welcome.
+**Brand hierarchy:** MOST Petersburg (name) → You Are the MOST Welcome (official slogan) → descriptive positioning: An Independent Destination Experience & Travel Partner.
+**Editorial note:** “Saint Petersburg. Beyond the Ordinary.” was an experimental campaign headline, NOT the official slogan; do not present it as brand DNA. Use only as an optional campaign line if separately approved.
 **Founded:** 2018. Independent; never describe MOST as an official tourism board, immigration authority, university agent or event organiser.
 
 ## Purpose
