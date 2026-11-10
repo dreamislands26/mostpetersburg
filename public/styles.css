@@ -4,3 +4,6 @@
 .article ul{line-height:2;padding-left:22px}.article li{margin:8px 0}header strong a{text-decoration:none}
 
 .event-table{width:100%;border-collapse:collapse;background:#fff;min-width:650px}.event-table th,.event-table td{padding:15px;text-align:left;border-bottom:1px solid #e5e1d8;vertical-align:top}.event-table th{background:#172b33;color:#fff;font-size:13px}.event-table td{font-size:14px}
+
+/* Brand DNA: editorial, quiet premium, accessible navigation */
+.tile{transition:transform .18s ease,border-color .18s ease}.tile:hover{transform:translateY(-2px);border-color:#c9b08b}.tile a{font-weight:600;text-underline-offset:4px}.button:hover{background:#e5c79b}.hero .button:focus-visible,nav a:focus-visible,.tile a:focus-visible{outline:3px solid #cba66e;outline-offset:3px}h2{letter-spacing:-.025em}nav a{line-height:1.6}@media(prefers-reduced-motion:reduce){.tile{transition:none}.tile:hover{transform:none}}
