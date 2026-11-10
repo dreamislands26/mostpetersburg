@@ -2,3 +2,5 @@
 .article{max-width:880px;margin:auto}.article h2{font-size:clamp(27px,3.2vw,39px);margin-top:48px}.article p{font-size:17px;line-height:1.85}.article .note{font-size:13px}
 
 .article ul{line-height:2;padding-left:22px}.article li{margin:8px 0}header strong a{text-decoration:none}
+
+.event-table{width:100%;border-collapse:collapse;background:#fff;min-width:650px}.event-table th,.event-table td{padding:15px;text-align:left;border-bottom:1px solid #e5e1d8;vertical-align:top}.event-table th{background:#172b33;color:#fff;font-size:13px}.event-table td{font-size:14px}
