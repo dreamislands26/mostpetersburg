@@ -122,3 +122,16 @@ html[dir=rtl] .site-header .primary-nav{direction:rtl}
 .site-header .brandmark{min-width:0}
 .site-header .brandmark img{display:block;width:76px;height:76px;max-width:none;object-fit:contain}
 @media(max-width:650px){.site-header .brandmark img{width:62px;height:62px}.site-header .header-actions{gap:9px}}
+
+/* Shared mobile header improvements across localized and interior pages. */
+@media(max-width:1050px){
+ .site-header .primary-nav{min-width:0;flex-basis:100%;width:100%;display:flex;flex-wrap:nowrap;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:thin;-webkit-overflow-scrolling:touch}
+ .site-header .primary-nav a{flex:0 0 auto;display:inline-flex;align-items:center;min-height:44px}
+ .site-header .header-actions{margin-left:auto}
+}
+@media(max-width:650px){
+ .site-header{column-gap:12px;row-gap:6px}
+ .site-header .primary-nav{gap:18px}
+ .site-header .language-menu summary{display:flex;align-items:center;min-height:44px}
+ .site-header .header-actions>.button{display:inline-flex;align-items:center;min-height:44px}
+}
