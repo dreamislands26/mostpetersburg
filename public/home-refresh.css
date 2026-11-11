@@ -1,5 +1,5 @@
 /* Homepage composition reset — isolated from historical styles.css overrides */
-.home-v2{--most-violet:#514d91;--most-pink:#ed4d70;--most-ink:#24232b;background:#fff;color:var(--most-ink)}
+.home-v2{--most-violet:#514889;--most-pink:#ff476d;--most-ink:#24232b;background:#fff;color:var(--most-ink)}
 .home-v2 .site-header{height:auto;min-height:80px;padding:14px clamp(24px,4.5vw,80px);display:flex;align-items:center;gap:28px;border-bottom:1px solid #e9e7eb;background:white}
 .home-v2 .brandmark{flex:0 0 auto}.home-v2 .brandmark img{display:block;width:clamp(145px,12vw,185px);height:auto}
 .home-v2 .primary-nav{display:flex;align-items:center;justify-content:center;gap:clamp(14px,2.2vw,34px);flex:1}
