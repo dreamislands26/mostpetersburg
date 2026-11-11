@@ -33,12 +33,12 @@ header,.home-v2 .site-header{border-bottom-color:var(--most-line)}
 @media(prefers-reduced-motion:reduce){.experience-card,.district-card{transition:none}.experience-card:hover,.district-card:hover{transform:none}}
 
 /* Archival destination imagery. Existing decorative illustrations remain as fallbacks if remote images cannot load. */
-.home-v2 .exp-heritage{background-image:linear-gradient(180deg,rgba(24,42,50,.08),rgba(24,42,50,.45)),url("https://drive.google.com/thumbnail?id=1YPXc649xPy3lNor1zZPmZuB9xv0_NQVV&sz=w1200");background-size:cover;background-position:center}
-.home-v2 .exp-water{background-image:linear-gradient(180deg,rgba(24,42,50,.05),rgba(24,42,50,.5)),url("https://drive.google.com/thumbnail?id=1tRCIzZ9Wseh1dSze5S_Qr9zqnT3a3a4h&sz=w1200");background-size:cover;background-position:center}
-.home-v2 .exp-culture{background-image:linear-gradient(180deg,rgba(24,42,50,.08),rgba(24,42,50,.5)),url("https://drive.google.com/thumbnail?id=1UI6xZBSQIdaqTp0z4NTOwa197ugEDbxB&sz=w1200");background-size:cover;background-position:center}
-.home-v2 .district-kolomna{background-image:linear-gradient(180deg,rgba(24,42,50,.02),rgba(24,42,50,.32)),url("https://drive.google.com/thumbnail?id=12h8CvO9N-ITZr1eRze6o3SLjLp6z1PmZ&sz=w1000");background-size:cover;background-position:center}
-.home-v2 .district-literary{background-image:linear-gradient(180deg,rgba(24,42,50,.02),rgba(24,42,50,.32)),url("https://drive.google.com/thumbnail?id=1IYwPKoxADC5IajE_z6fDCBYT-gCS7RmA&sz=w1000");background-size:cover;background-position:center}
-.home-v2 .district-center{background-image:linear-gradient(180deg,rgba(24,42,50,.02),rgba(24,42,50,.32)),url("https://drive.google.com/thumbnail?id=1Bw7MdPmDnqtYBno34XGHIggzQvCGi2zA&sz=w1000");background-size:cover;background-position:center}
+.home-v2 .exp-heritage{background-image:linear-gradient(180deg,rgba(24,42,50,.08),rgba(24,42,50,.45)),url("/assets/photos/authentic-archive-1200.webp");background-size:cover;background-position:center}
+.home-v2 .exp-water{background-image:linear-gradient(180deg,rgba(24,42,50,.05),rgba(24,42,50,.5)),url("/assets/photos/grand-canals-1200.webp");background-size:cover;background-position:center}
+.home-v2 .exp-culture{background-image:linear-gradient(180deg,rgba(24,42,50,.08),rgba(24,42,50,.5)),url("/assets/photos/evening-program-1200.webp");background-size:cover;background-position:center}
+.home-v2 .district-kolomna{background-image:linear-gradient(180deg,rgba(24,42,50,.02),rgba(24,42,50,.32)),url("/assets/photos/kolomna-1200.webp");background-size:cover;background-position:center}
+.home-v2 .district-literary{background-image:linear-gradient(180deg,rgba(24,42,50,.02),rgba(24,42,50,.32)),url("/assets/photos/literary-petersburg-1200.webp");background-size:cover;background-position:center}
+.home-v2 .district-center{background-image:linear-gradient(180deg,rgba(24,42,50,.02),rgba(24,42,50,.32)),url("/assets/photos/historic-centre-1200.webp");background-size:cover;background-position:center}
 .home-v2 .district-peterhof{background-image:linear-gradient(180deg,rgba(24,42,50,.02),rgba(24,42,50,.32)),linear-gradient(135deg,#c9c5b5,#7e9294);background-size:cover;background-position:center}
 .home-v2 .experience-illustration,.home-v2 .district-art{opacity:.12;pointer-events:none}
 
