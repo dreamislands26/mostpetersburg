@@ -36,3 +36,8 @@
 .home-v2 .hero-film figcaption a:hover,.home-v2 .hero-film figcaption a:focus-visible{background:#fff;color:#17242d}
 @media(max-width:720px){.home-v2 .hero-film-video{width:100%;height:100%}.home-v2 .hero-film figcaption{font-size:10px}}
 @media(prefers-reduced-motion:reduce){.home-v2 .hero-film-video{display:none}}
+
+/* Match the original square MOST-8.png on the homepage too. */
+.home-v2 .site-header .brandmark{min-width:0}
+.home-v2 .site-header .brandmark img{width:76px;height:76px;max-width:none;object-fit:contain}
+@media(max-width:720px){.home-v2 .site-header .brandmark img{width:62px;height:62px}}
