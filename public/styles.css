@@ -117,3 +117,8 @@ html[dir=rtl] .site-header .primary-nav{direction:rtl}
 .most-film-caption{font-size:13px;text-align:end;margin:14px 0 0}
 .most-film-caption a{text-underline-offset:4px}
 @media(max-width:760px){.most-film-section{padding:45px 6%}}
+
+/* Original 500x500 MOST PNG: preserve its square aspect ratio in every header. */
+.site-header .brandmark{min-width:0}
+.site-header .brandmark img{display:block;width:76px;height:76px;max-width:none;object-fit:contain}
+@media(max-width:650px){.site-header .brandmark img{width:62px;height:62px}.site-header .header-actions{gap:9px}}
