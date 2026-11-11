@@ -65,3 +65,32 @@ Original MOST brand presentation (2018–2019), logo vector/source, actual promo
 - Keep claims about events, visas and payment rules verified and dated.
 - For multilingual pages use correct `lang`, Arabic RTL, and locale-specific internal navigation.
 - Do not call a reference illustration a historic MOST artifact.
+
+
+## SOURCE RECOVERED: ORIGINAL MOST P DRIVE ARCHIVE (2026-11-11)
+Root folder: https://drive.google.com/drive/folders/1CvVYijG11Lpnwum1Q-Dur05LrvO1DF8s
+**Supersedes the earlier “not found” assessment above.** Direct folder URL supplied by owner unlocked the archive, which was not discoverable via keyword search.
+
+### Primary historical sources
+- Public materials: https://drive.google.com/drive/folders/1VdHW1qmjbR0ekkMjsZ3wvery8JDuPEDh — MediaKit.pdf and MOST_Petersburg_Map_A2_Proof_190222.pdf (10.2 MB).
+- Historical media kit: https://drive.google.com/file/d/1cMhTGn5N3-froP7ggNk6umZxAqg310u8/view — MOST_MEDIA KIT _compressed.pdf. Describes MOST PETERSBURG CLUB, visitors guide, visitor map, website, meeting/event planner, marketing inventory, visitor reach and historical advertising products. All numerical figures in this deck are **historical claims, not current metrics**.
+- Public MediaKit: https://drive.google.com/file/d/1xJKrvCMi9k39_okhGQqSHyj3oo6l7qLG/view — routes around Golden Triangle, city landmarks, architecture and historic descriptions. Some opening hours are outdated.
+- Historical MOST map: https://drive.google.com/file/d/1hBxxE4ike1KY_hXmInvXa70WBtJIFL1S/view — rich walking-route editorial and historic urban identity, including Golden Triangle routes; mentions MOST.P app. Use for structured editorial research, not automatically for current factual claims.
+
+### Visual archive
+- Original Photos: https://drive.google.com/drive/folders/1sDu9aj-sjLBHt7kYlkkfsgmdQ4VbzHZL — folder listing has at least 100 items, including branded photos for private canal tours, cruise shore excursions, Kolomna, Dostoevsky and Jewish Heritage. A TOURS subfolder also exists. **100 is the listing cap, not the complete archive count.**
+- Partner logos: https://drive.google.com/drive/folders/1ALuH6A00vNIwjGjVxqPJTQJ3-yvZhFf2 — use only with authorization and verified relationship.
+- Hotel partner materials: https://drive.google.com/drive/folders/1EbFzTYXoWR_nRI8-2LVbiksDTgCPXjp4 — includes Belmond Grand Hotel Europe, Four Seasons, Astoria, Lotte, etc. Folder presence does not prove an active partnership or public-use image rights.
+
+### Product and editorial archives
+- Travel Products: https://drive.google.com/drive/folders/1009pn0dknOMIHv71wUyH2rJ77lQ6IKiZ — package tours, boat trips, guides, Navy Day, WN Run 2021, EURO2020 and other historical products.
+- CONTENT: https://drive.google.com/drive/folders/1O5cFQ2lDlyY9tX6ot_U4llOxA3P5wp9s — articles and video production.
+- MP Transformation: https://drive.google.com/drive/folders/1OmpOf-6Gvcxp52poS_-JtCbXsmIyfVp6 — Russian/English materials, original vision, MOST.P map, app, technical club and media kit.
+- Hotel excursion offers: https://drive.google.com/drive/folders/1CpP_40apXoXryHu3zZNDnbS2ULb3XVkm
+
+### Design implications
+1. The original MOST visitors map and Golden Triangle walking routes are strong candidates for an interactive **Explore Petersburg** / neighbourhood route experience.
+2. Use archived original tour photography for corresponding editorial cards after rights review.
+3. Retain original visitor-guide / city-map editorial DNA while developing fresh visual posters inspired by the supplied Belmond references.
+4. Distinguish archival historical performance statistics and partnerships from present-day verified operations.
+5. Archive assets have been **located and text extracted**; binaries have NOT yet been copied to GitHub or published on the live website.
