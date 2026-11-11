@@ -109,3 +109,11 @@ html[dir=rtl] .site-header .primary-nav{direction:rtl}
 @media(max-width:1050px){.site-header{flex-wrap:wrap}.site-header .primary-nav{order:3;width:100%;justify-content:flex-start}}
 @media(max-width:650px){.site-header{padding:14px 5%}.site-header .brandmark img{width:155px}.site-header .primary-nav{gap:10px 16px}.site-header .primary-nav a{font-size:12px}.cards{grid-template-columns:1fr}.wrap{padding:45px 6%}}
 @media(prefers-reduced-motion:reduce){.cards .card{transition:none}}
+
+/* Responsive destination film on homepage */
+.most-film-section{background:#f5f3ed}
+.most-film-frame{position:relative;width:100%;aspect-ratio:16/9;overflow:hidden;background:#343b40;border:1px solid #d9d4c6}
+.most-film-frame iframe{display:block;width:100%;height:100%;border:0}
+.most-film-caption{font-size:13px;text-align:end;margin:14px 0 0}
+.most-film-caption a{text-underline-offset:4px}
+@media(max-width:760px){.most-film-section{padding:45px 6%}}
