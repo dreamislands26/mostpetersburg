@@ -57,26 +57,3 @@
  .home-v2 .primary-nav{gap:22px;margin-inline:-16px;padding:0 16px 4px;width:calc(100% + 32px)}
  .home-v2 .editorial-hero h1{overflow-wrap:break-word}
 }
-
-/* MOST destination design system v2 — azure, amber and wet asphalt. */
-.home-v2{--most-violet:#176f8f;--most-pink:#bc8533;--most-ink:#29343a;--most-azure:#176f8f;--most-amber:#bc8533;--most-asphalt:#29343a;background:#fbfaf6;color:var(--most-asphalt)}
-.home-v2 .site-header{background:#fbfaf6;border-bottom:1px solid #e3e3dc}
-.home-v2 .header-cta,.home-v2 .hero-buttons .button-ink{background:var(--most-azure);color:#fff}
-.home-v2 .header-cta:hover,.home-v2 .hero-buttons .button-ink:hover{background:#10536c}
-.home-v2 .editorial-hero{background:#f3f1e9}
-.home-v2 .hero-kicker{color:var(--most-azure)}
-.home-v2 .editorial-hero h1,.home-v2 h2,.home-v2 .journey-banner h2{font-family:Georgia,'Times New Roman',serif;font-weight:700;letter-spacing:-.055em;text-transform:none}
-.home-v2 .editorial-hero h1{font-size:clamp(56px,5.4vw,92px);line-height:1.03}
-.home-v2 .editorial-hero h1 em,.home-v2 h2 em{color:var(--most-azure)}
-.home-v2 .hero-footnote strong{color:var(--most-amber)}
-.home-v2 .neighbourhood-section{background:#eaf0ef}
-.home-v2 .most-map-section{background:#eef2f0;border-color:var(--most-azure)}
-.home-v2 .map-fact{border-left-color:var(--most-amber)}
-.home-v2 .journey-banner,.home-v2 .site-footer{background:var(--most-asphalt)}
-.home-v2 .journey-banner h2 em{color:#e9c27f}
-.home-v2 .button-gold{background:var(--most-amber);color:#1d2529}
-.home-v2 .experience-card,.home-v2 .district-card{transition:transform .2s ease,box-shadow .2s ease}
-.home-v2 .experience-card:hover,.home-v2 .district-card:hover{transform:translateY(-3px);box-shadow:0 14px 34px rgba(25,49,57,.12)}
-.home-v2 a:focus-visible{outline:3px solid var(--most-amber);outline-offset:3px}
-@media(max-width:720px){.home-v2 .editorial-hero h1{font-size:clamp(50px,11vw,76px)}.home-v2 .hero-copy{padding:46px 22px 38px}}
-@media(prefers-reduced-motion:reduce){.home-v2 .experience-card,.home-v2 .district-card{transition:none}}
