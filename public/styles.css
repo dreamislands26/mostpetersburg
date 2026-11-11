@@ -39,7 +39,7 @@ header,.home-v2 .site-header{border-bottom-color:var(--most-line)}
 .home-v2 .district-kolomna{background-image:linear-gradient(180deg,rgba(24,42,50,.02),rgba(24,42,50,.32)),url("https://drive.google.com/thumbnail?id=12h8CvO9N-ITZr1eRze6o3SLjLp6z1PmZ&sz=w1000");background-size:cover;background-position:center}
 .home-v2 .district-literary{background-image:linear-gradient(180deg,rgba(24,42,50,.02),rgba(24,42,50,.32)),url("https://drive.google.com/thumbnail?id=1IYwPKoxADC5IajE_z6fDCBYT-gCS7RmA&sz=w1000");background-size:cover;background-position:center}
 .home-v2 .district-center{background-image:linear-gradient(180deg,rgba(24,42,50,.02),rgba(24,42,50,.32)),url("https://drive.google.com/thumbnail?id=1Bw7MdPmDnqtYBno34XGHIggzQvCGi2zA&sz=w1000");background-size:cover;background-position:center}
-.home-v2 .district-peterhof{background-image:linear-gradient(180deg,rgba(24,42,50,.02),rgba(24,42,50,.32)),url("https://drive.google.com/thumbnail?id=19n_94sR1tQip0q3EiGL04YXN2OCsW6WH&sz=w1000");background-size:cover;background-position:center}
+.home-v2 .district-peterhof{background-image:linear-gradient(180deg,rgba(24,42,50,.02),rgba(24,42,50,.32)),linear-gradient(135deg,#c9c5b5,#7e9294);background-size:cover;background-position:center}
 .home-v2 .experience-illustration,.home-v2 .district-art{opacity:.12;pointer-events:none}
 
 
