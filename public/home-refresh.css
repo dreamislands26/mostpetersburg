@@ -57,3 +57,14 @@
  .home-v2 .primary-nav{gap:22px;margin-inline:-16px;padding:0 16px 4px;width:calc(100% + 32px)}
  .home-v2 .editorial-hero h1{overflow-wrap:break-word}
 }
+
+/* Conversion release: four-season layout and accessible travel reassurance */
+.home-v2 .season-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
+.home-v2 .season-card{min-width:0}
+.home-v2 .season-spring{background:linear-gradient(155deg,rgba(17,45,39,.25),rgba(14,34,30,.75)),url('/assets/photos/grand-canals-1600.webp') center/cover;color:#fff}
+.home-v2 #travel-reassurance{padding-top:24px;padding-bottom:24px;background:#f1eee8}
+.home-v2 #travel-reassurance .useful-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.home-v2 #travel-reassurance .useful-grid a{display:flex;flex-direction:column;gap:8px;padding:20px;border:1px solid #d8d3c9;text-decoration:none}
+.home-v2 #travel-reassurance .useful-grid span{font-size:13px;line-height:1.5}
+@media(max-width:850px){.home-v2 .season-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:720px){.home-v2 .season-grid{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:16px}.home-v2 .season-card{flex:0 0 78%;scroll-snap-align:start}.home-v2 #travel-reassurance .useful-grid{grid-template-columns:1fr}}
